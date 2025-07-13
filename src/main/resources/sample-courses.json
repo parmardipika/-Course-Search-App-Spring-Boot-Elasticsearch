@@ -1,0 +1,42 @@
+[
+  {
+    "id": "C101",
+    "title": "Space Explorers 101",
+    "description": "Learn about the planets, black holes, and beyond.",
+    "category": "Science",
+    "type": "COURSE",
+    "gradeRange": "4th–6th",
+    "minAge": 9,
+    "maxAge": 12,
+    "price": 1999.99,
+    "startDate": "2025-07-19T18:30:00Z",
+    "instructor": "Dr. Neil Armstrong"
+  },
+  {
+    "id": "C102",
+    "title": "Art & Imagination",
+    "description": "A hands-on journey into painting and creativity.",
+    "category": "Art",
+    "type": "ONE_TIME",
+    "gradeRange": "1st–3rd",
+    "minAge": 6,
+    "maxAge": 8,
+    "price": 799.00,
+    "startDate": "2025-07-19T18:30:00Z",
+    "instructor": "Ms. Frida Kahlo"
+  },
+  {
+    "id": "C103",
+    "title": "Intro to Robotics",
+    "description": "Learn basic robotics concepts and coding.",
+    "category": "STEM",
+    "type": "Live",
+    "gradeRange": "5th–8th",
+    "minAge": 10,
+    "maxAge": 15,
+    "price": 299.99,
+    "startDate": "2025-07-19T18:30:00Z",
+    "instructor": "Prof. Tesla"
+  }
+
+]

@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: course-search
+
+  data:
+    elasticsearch:
+      client:
+        reactive:
+          endpoints: localhost:9200
+          use-ssl: false
+
+  jackson:
+    serialization:
+      write-dates-as-timestamps: false
+
+server:
+  port: 8080
