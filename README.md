@@ -178,7 +178,7 @@ docker-compose up -d       # Start Elasticsearch
 
 ## 👩‍💻 Author
 #### Dipika Parmar
-📧 parmardipika61825@gmail.com
+📧 parmardipika61825@gmail.com <br>
 🌐 [GitHub](https://github.com/parmardipika)
 
 
